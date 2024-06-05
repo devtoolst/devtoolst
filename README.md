@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 
 
 https://github.com/devtoolst/devtoolst.git
+
+![image description](relative/path/in/repository/to/image.svg)
+<img src="relative/path/in/repository/to/image.svg" width="128"/>
